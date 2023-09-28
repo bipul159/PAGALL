@@ -233,11 +233,11 @@ def xxr():
         print(f'{x} \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m THE PROCESS HAS BEEN STARTED')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m WORK CUNTRY \033[1;97m: \033[1;96mBANGLADESH')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOOL OWNER \033[1;97m: \033[1;96m RIYAZUL ISLAM')
-        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m USE NETWORK  \033[1;97m:  \033[1;96m2G, 3G, 4G, 5G ')
+        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m USE NETWORK  \033[1;97m:  \033[1;96m2G, 3G, 4G, 5G, WIFI')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         print(f" \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××××")
         for love in user:
-            pwx = [love[1:]]
+            pwx = [love+kode'shakil','saiful','rahman','mamum','Bangladesh','free fire','xxxxxx']
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
